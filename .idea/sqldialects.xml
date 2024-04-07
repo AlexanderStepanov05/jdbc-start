@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/src/main/java/org/stepanov/BlobRunner.java" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/stepanov/JdbcRunner.java" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/stepanov/TransactionRunner.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/stepanov/dao/FlightDao.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/stepanov/dao/TicketDao.java" dialect="PostgreSQL" />
   </component>
 </project>
